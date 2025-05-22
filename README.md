@@ -66,5 +66,5 @@ Vector of σ₀_VV(model) values for first 10 data points:
 
 ## 📬 Author
 
-- Created by a student pursuing a career in global MNCs
+- Created by Ani-tem
 - For academic and research use
