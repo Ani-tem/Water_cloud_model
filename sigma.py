@@ -4,7 +4,7 @@ import math
 theta_values = [40.251442, 40.202873, 39.310913, 40.142815, 39.659687, 40.071384, 38.738644, 40.125854, 40.143441, 38.84277]
 sigma0_vv_values = [0.03915297, 0.017670427, 0.015117519, 0.023248995, 0.018192733, 0.018360425, 0.020412635, 0.017530126, 0.01782344, 0.021276537]
 ks = 0.56
-lambda_val = 5.6
+lambda_val = 5.1
 
 # Function to compute epsilon
 def compute_epsilon(theta, sigma0_vv, ks, lambda_val):
